@@ -84,8 +84,8 @@ Tutorial for github
 
 ### How to change the URI (URL) for a remote Git repository
 1. git remote -v (View existing remotes)
-2. git remote set-url origin https://github.com/user/repo2.git (Change the 'origin' remote's URL)
+2. git remote set-url origin https://github.com/Aguzrybudy/GithubTutorial.git (Change the 'origin' remote's URL)
 3. git remote -v (Verify new remote URL)
 
 ### How to Clone a GitHub Repository
-1. git clone <repo-url> example (https://github.com/username/reponame.git)
+1. git clone <repo-url> example (https://github.com/Aguzrybudy/GithubTutorial.git)
