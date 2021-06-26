@@ -127,4 +127,4 @@
 - git fetch nama_remote nama_cabang (Hanya akan mengambil revisi (commit) saja dan tidak langsung melakukan penggabungan (merge) terhadap repository lokal)
 - git full nama_remote nama_cabang akan mengambil revisi (commit) dan langsung melakukan penggabungan (merge) terhadap repository lokal
 - Bila kita sudah membuat perubahan di repository lokal, maka sebaiknya menggunakan git fetch agar perubahan yang kita lakukan tidak hilang. Namun, bila kita tidak pernah melakukan perubahan apapun dan ingin mengambil versi terakhir dari repository remote, maka gunakanlah git pull.
-- s
+- done, thank you.
