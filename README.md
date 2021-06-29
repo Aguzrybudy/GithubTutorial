@@ -123,6 +123,7 @@
 - git remote remove url_respository (Menghapus Git Remote Respository)
 - git remote set-url origin url_respository (Mengganti Git Remote Respository)
 - git push url_respository master
+- git push --all origin (Untuk push semua branch)
 
 ### Mengambil Revisi dari Remote Repository
 - git fetch nama_remote nama_cabang (Hanya akan mengambil revisi (commit) saja dan tidak langsung melakukan penggabungan (merge) terhadap repository lokal)
