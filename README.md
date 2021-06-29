@@ -129,3 +129,8 @@
 - git pull nama_remote nama_cabang akan mengambil revisi (commit) dan langsung melakukan penggabungan (merge) terhadap repository lokal
 - Bila kita sudah membuat perubahan di repository lokal, maka sebaiknya menggunakan git fetch agar perubahan yang kita lakukan tidak hilang. Namun, bila kita tidak pernah melakukan perubahan apapun dan ingin mengambil versi terakhir dari repository remote, maka gunakanlah git pull.
 - done, thank you.
+
+----------
+
+### Notes
+- error: invalid path (On Windows certain files with "~" in the file name may be spontaneously deleted by git with a "error: Invalid Path" message when pulling or merging. The solution is to set **git config core.protectNTFS false**)
