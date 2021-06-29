@@ -121,6 +121,7 @@
 - git remote -v
 - git remote rename nama_lama nama_baru (Ubah nama remote)
 - git remote remove url_respository (Menghapus Git Remote Respository)
+- git remote set-url origin url_respository (Mengganti Git Remote Respository)
 - git push url_respository master
 
 ### Mengambil Revisi dari Remote Repository
