@@ -133,5 +133,12 @@
 
 ----------
 
+## Cara Delete Branch Local & Remote
+- git branch -d <nama_branch> (Untuk menghapus branch local)
+- git push origin --delete <nama_branch> (Untuk menghapus branch remote)
+- git branch -a (Untuk mengecheck list branch yang ada)
+
+----------
+
 ### Notes
 - error: invalid path (On Windows certain files with "~" in the file name may be spontaneously deleted by git with a "error: Invalid Path" message when pulling or merging. The solution is to set **git config core.protectNTFS false**)
